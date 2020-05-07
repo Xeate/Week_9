@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">W9</string>
+
+    <string-array name="items">
+        <item>Leffa 1</item>
+        <item>Leffa 2</item>
+    </string-array>
+
+</resources>
